@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LibraryManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibraryManagementSystem_jar</output-path>
+    <root id="archive" name="LibraryManagementSystem.jar">
+      <element id="module-output" name="LibraryManagementSystem" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/jdbc/ojdbc10/19.7.0.0/ojdbc10-19.7.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
